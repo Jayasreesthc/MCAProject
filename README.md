@@ -4,7 +4,7 @@ Overview:
 This project is a Java-based simulation of an ATM system with essential and advanced banking functionalities. It offers secure, user-friendly modules for managing financial transactions and account information.
 
 Features:
-User Authentication: Login using card number and PIN.
+User Authentication: Login using card number and PIN. 
 Signup Modules: Multi-step user registration.
 Core Functionalities:
 Deposit, cash withdrawal, and fast cash options. 
