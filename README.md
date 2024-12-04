@@ -7,7 +7,7 @@ Features:
 User Authentication: Login using card number and PIN.
 Signup Modules: Multi-step user registration.
 Core Functionalities:
-Deposit, cash withdrawal, and fast cash options.
+Deposit, cash withdrawal, and fast cash options. 
 Balance inquiry and mini-statement display.
 PIN change with database validation.
 OTP Validation: Email-based OTP for secure withdrawals.
